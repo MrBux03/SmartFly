@@ -1,0 +1,9 @@
+Django>=4.0,<5.0
+djangorestframework>=3.14,<3.15
+psycopg2-binary>=2.9,<2.10
+redis>=4.5,<4.6
+requests>=2.28,<2.29
+celery>=5.2,<5.3
+django-environ>=0.9,<0.10
+drf-yasg>=1.21,<1.22 # For API documentation
+gunicorn>=20.1,<20.2 # WSGI server for production simulation 
